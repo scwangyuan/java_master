@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java_master.iml" filepath="$PROJECT_DIR$/.idea/java_master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/now_code/now_code.iml" filepath="$PROJECT_DIR$/now_code/now_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wy/wy_maven.iml" filepath="$PROJECT_DIR$/wy/wy_maven.iml" />
     </modules>
   </component>
 </project>
